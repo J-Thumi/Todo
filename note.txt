@@ -1,0 +1,8 @@
+inline css here is written in 2 brackets outer for js inner for an object
+use camel
+<h1 style={{color:"blue" , fontSize:"20px"}}>Inline</h1>
+you can also def the object separately
+
+css modules are most prefered incase working on a project as a team naming can conflict
+here each component has its stylesheet
+style.module.css
